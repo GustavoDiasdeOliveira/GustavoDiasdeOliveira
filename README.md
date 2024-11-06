@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Dias de Oliveira. 😀
 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavodiaz7868/)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://gustavo-dias.my.canva.site/dagvqhv3jto)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.facebook.com/gustavodiasdeoliveira.oliveira.1)
 [![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gustavodiasdeoliveira.oliveira.1)
 
