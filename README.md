@@ -1,8 +1,5 @@
 ### Olá! Eu sou o Gustavo Dias de Oliveira 😀  
 
-Estudante Web Designer e Automações, focado em 
-otimizar processos, integrar sistemas e criar soluções eficientes para o dia a dia de negócios digitais.
-
 ---
 
 ### 🌐 Conecte-se comigo
