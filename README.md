@@ -8,6 +8,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-dias-de-oliveira-615073299/)
 [![Blog](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gustavodiasdeoliveira.oliveira.1)
 
+---
 
 ### Tecnologias que eu uso no meu dia.
 
