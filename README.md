@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Dias de Oliveira 😀  
 ### **Web Design & Automação de Processos**, focado em otimizar processos, integrar sistemas e criar soluções eficientes para o dia a dia de negócios digitais.
-### 🎯 Objetivo: Evoluir como Web Designer e especialista em automação, criando soluções escaláveis que otimizem processos e gerem impacto real.
+### Objetivo: Evoluir como Web Designer e especialista em automação, criando soluções escaláveis que otimizem processos e gerem impacto real.
 ---
 
 ### 🌐 Conecte-se comigo
