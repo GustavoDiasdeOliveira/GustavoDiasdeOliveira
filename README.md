@@ -10,7 +10,7 @@
 
 ---
 
-### Tecnologias que eu uso no meu dia.
+### 🛠️ Tecnologias que eu uso no meu dia.
 
 <div style="display: inline-block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,7 +23,7 @@
     <img align="center" alt="rdstation" src="https://img.shields.io/badge/RD%20Station-EC1C24?style=for-the-badge"/>
 </div>
 
+---
 
-
-### Entrem em contato com o meu Email: 
-- gustavodiasdeoliveira72@gmail.com
+### 📫 Entre em contato comigo
+📧 **Email:** gustavodiasdeoliveira72@gmail.com
