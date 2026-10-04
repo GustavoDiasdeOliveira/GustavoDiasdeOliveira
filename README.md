@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Gustavo Dias de Oliveira 😀
 
-### 🎯 Automação Low-Code & AI Agents | n8n | Docker | LLM | Power BI
+### 🎯 Automação Low-Code/No-Code & AI Agents | n8n | | API | | Webhooks | Docker | LLMs | Power BI
 
-Estudante de Ciência da Computação na UNIP, especializado em Automação Low-Code / No-Code com n8n. Atuo como Estagiário de TI na Mar Brasil desenvolvendo workflows que integram APIs, Webhooks e bancos de dados, e também executo projetos freelancer de ponta a ponta para clientes reais — agentes de IA conversacionais (WhatsApp, chat widgets) com LLMs (Groq AI, OpenAI, Gemini), deploy de n8n e Evolution API em containers Docker, e dashboards em Power BI para apoio à tomada de decisão. Tenho ainda background em Web Design (HTML/CSS/JS) e experiência prévia em Inteligência de Mercado & Pricing pela Zukkin.
+Estudante de Ciência da Computação na UNIP, especializado em Automação Low-Code / No-Code com n8n. Atuo como Estagiário de TI na Mar Brasil desenvolvendo workflows que integram APIs, Webhooks e bancos de dados, e também executo projetos freelancer de ponta a ponta para clientes reais — agentes de IA conversacionais (WhatsApp, chat widgets) com LLMs (Groq AI, OpenAI, Gemini e entre outros), deploy de n8n e Evolution API em containers Docker, e dashboards em Power BI para apoio à tomada de decisão. Tenho ainda background em Web Design (HTML/CSS/JS) e experiência prévia em Inteligência de Mercado & Pricing pela Zukkin.
 
-**Estou em busca de oportunidades em:** Automação Low-Code · AI Agents · n8n · Power BI · Web Design
+**Estou em busca de oportunidades em:** Automação Low-Code/No-Code · AI Agents · n8n · Web Design
 
 ---
 
