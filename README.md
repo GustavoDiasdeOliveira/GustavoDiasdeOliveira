@@ -1,10 +1,18 @@
 ### Olá! Eu sou o Gustavo Dias de Oliveira 😀
 
-### 🎯 Automação Low-Code/No-Code & AI Agents | n8n | | API | | Webhooks | Docker | LLMs | Power BI
+### 🎨 Web Designer & Automações com IA Low-Code | Figma | HTML/CSS/JS | Landing Pages | n8n | AI Agents | Webhooks
 
-Estudante de Ciência da Computação na UNIP, especializado em Automação Low-Code / No-Code com n8n. Atuo como Estagiário de TI na Mar Brasil desenvolvendo workflows que integram APIs, Webhooks e bancos de dados, e também executo projetos freelancer de ponta a ponta para clientes reais — agentes de IA conversacionais (WhatsApp, chat widgets) com LLMs (Groq AI, OpenAI, Gemini e entre outros), deploy de n8n e Evolution API em containers Docker, e dashboards em Power BI para apoio à tomada de decisão. Tenho ainda background em Web Design (HTML/CSS/JS) e experiência prévia em Inteligência de Mercado & Pricing pela Zukkin.
+Estudante de Ciência da Computação na UNIP. Desenho e desenvolvo landing pages, dashboards e interfaces com foco em clareza e conversão (Figma, HTML/CSS/JS), e conecto tudo a automações com IA: agentes conversacionais (WhatsApp, chat widgets) com LLMs (Groq AI, OpenAI, Gemini e entre outros), workflows no n8n integrando APIs, Webhooks e bancos de dados, e deploy de n8n e Evolution API em containers Docker. Também executo projetos freelancer de ponta a ponta para clientes reais. Atuo como Estagiário de TI na Mar Brasil e tenho experiência prévia em Inteligência de Mercado & Pricing pela Zukkin.
 
-**Estou em busca de oportunidades em:** Automação Low-Code/No-Code · AI Agents · n8n · Web Design
+**Estou em busca de oportunidades em:** Web Design · UI/UX · Landing Pages · Automação Low-Code/No-Code · n8n · AI Agents
+
+---
+
+### 🚀 Projetos em destaque
+
+- **Pulso, dashboard de marketing:** dashboard responsivo com KPIs, funil de conversão e testes A/B, criado no Figma Make. [Ver ao vivo](COLE-O-LINK-DO-PREVIEW-AQUI)
+- **ZBOT:** chatbot interno para apoiar novos estagiários, feito do zero com HTML/CSS/JS + n8n. [Ver projeto](https://gustavodiasdeoliveira.github.io/ZBot/varredura.html)
+- **Portfólio completo:** [gustavodiasdeoliveira.github.io/gd.project](https://gustavodiasdeoliveira.github.io/gd.project/)
 
 ---
 
@@ -20,18 +28,17 @@ Estudante de Ciência da Computação na UNIP, especializado em Automação Low-
 ### 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline-block">
+    <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
     <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
     <img align="center" alt="openai" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
     <img align="center" alt="supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
     <img align="center" alt="powerbi" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     <img align="center" alt="googlesheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
-    <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </div>
 
 ---
