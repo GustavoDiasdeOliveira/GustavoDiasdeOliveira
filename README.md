@@ -11,7 +11,7 @@ Estudante de Ciência da Computação na UNIP. Desenho e desenvolvo landing page
 ### 🚀 Projetos em destaque
 
 - **Pulso, dashboard de marketing:** dashboard responsivo com KPIs, funil de conversão e testes A/B, criado no Figma Make. [Ver ao vivo](https://www.figma.com/make/1RiZUqxC2IZXqJBONIqYQ9/Pulso-Marketing-Analytics-Dashboard?t=MJ7Wdm4FDW0lLNKx-20&fullscreen=1)
-- **ZBOT:** chatbot interno para apoiar novos estagiários, feito do zero com HTML/CSS/JS + n8n. [Ver projeto](https://gustavodiasdeoliveira.github.io/ZBot/varredura.html)
+- **ZBOT:** Projeto chatbot interno da Zukkin para apoiar novos estagiários, feito do zero com HTML/CSS/JS. [Ver projeto](https://gustavodiasdeoliveira.github.io/ZBot/varredura.html)
 - **Portfólio completo:** [gustavodiasdeoliveira.github.io/gd.project](https://gustavodiasdeoliveira.github.io/gd.project/)
 
 ---
