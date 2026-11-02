@@ -35,6 +35,8 @@ Estudante de Ciência da Computação na UNIP. Desenho e desenvolvo landing page
     <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </div>
 
+---
+
 **💻 Front-end**
 
 <div style="display: inline-block">
@@ -46,6 +48,8 @@ Estudante de Ciência da Computação na UNIP. Desenho e desenvolvo landing page
     <img align="center" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
     <img align="center" alt="supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </div>
+
+---
 
 **⚙️ Automação & IA**
 
